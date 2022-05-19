@@ -1,5 +1,6 @@
-#include <stdio.h>
+#include "print.h"
+
 int main(){
-    printf("Mega rozbudowany program\n");
+    drukuj();
     return 0;
 }
